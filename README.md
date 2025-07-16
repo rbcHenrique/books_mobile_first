@@ -45,4 +45,4 @@ Foi desenvolvido com foco em boas práticas de HTML5 e CSS3, além da utilizaç�
    
 ## URL
 
-- https://rbchenrique.github.io/books_mobile_first/
+- https://rchenrique.github.io/books_mobile_first/
