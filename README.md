@@ -42,3 +42,7 @@ Foi desenvolvido com foco em boas práticas de HTML5 e CSS3, além da utilizaç�
 1. Clone o repositório:
    ```bash
    git clone https://github.com/rbchenrique/books_mobile_first.git
+   
+## URL
+
+- https://rbchenrique.github.io/books_mobile_first/
